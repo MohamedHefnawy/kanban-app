@@ -14,8 +14,8 @@ We were facing issues with organizing our internal tasks, so we decided to have 
 ## Job Requirements
 
 - [Fork](https://help.github.com/en/articles/fork-a-repo) this repo to your Github: https://github.com/mohammedbakr/kanban-app.git.
-- Push your work to your forked repo "user-name/trello-app".
-- Create pull request to the original repo "mohammedbakr/trello-app"
+- Push your work to your forked repo "user-name/kanban-app".
+- Create pull request to the original repo "mohammedbakr/kanban-app"
 - Each forked repo must contain a deployment URL.
 
 ## Software Requirements
