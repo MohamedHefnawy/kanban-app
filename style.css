@@ -1,0 +1,71 @@
+.container {
+    padding: 1px;
+}
+
+body {
+    background-image: url('/images/e7694a96b93ca4f370f1406202aacbd2.jpg');
+    background-size: cover;
+}
+
+._container {
+    border: 1px solid rgb(184, 169, 169);
+    margin: 10px;
+    visibility: hidden;
+}
+
+._container.active {
+    visibility: visible;
+}
+
+.BTN {
+    opacity: 0.6;
+    pointer-events: none;
+    margin: 20px;
+}
+
+.BTN.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.footer button {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.footer button.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.collection-item {
+    cursor: move;
+}
+
+.collection-item.dragging {
+    opacity: 0.5;
+}
+
+#todo {
+    border: 1px solid rgb(184, 169, 169);
+}
+
+#Analysis {
+    border: 1px solid rgb(184, 169, 169);
+}
+
+#Development {
+    border: 1px solid rgb(184, 169, 169);
+}
+
+#Testing {
+    border: 1px solid rgb(184, 169, 169);
+}
+
+#Done {
+    border: 1px solid rgb(184, 169, 169);
+}
+
+#inputValue {
+    color: black;
+}
